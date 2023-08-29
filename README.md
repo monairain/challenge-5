@@ -27,6 +27,6 @@ Once all prompts are answered, the password should be generated and displayed in
 
 ## Review
 
-* The URL of the deployed application.
+* The URL of the deployed application: https://monairain.github.io/challenge-5/ 
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository: https://github.com/monairain/challenge-5 
